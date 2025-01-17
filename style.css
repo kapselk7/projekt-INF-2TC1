@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    background-color: #6dc067;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.logo-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 20px 0;
+}
+
+.logo-search h1 {
+    font-size: 24px;
+}
+
+.logo-search input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.main-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.main-nav ul li {
+    cursor: pointer;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+}
+
+.hero-text {
+    color: white;
+}
+
+.hero-text h2 {
+    font-size: 32px;
+}
+
+.hero-text p {
+    font-size: 18px;
+}
+
+.cta-button {
+    background-color: #c6e15f;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-icons .icon {
+    text-align: center;
+}
