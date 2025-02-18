@@ -9,6 +9,7 @@ body {
     color: white;
     text-align: center;
     padding: 10px 0;
+	position: sticky;
 }
 
 .main-header {
