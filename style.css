@@ -5,11 +5,12 @@ body {
 }
 
 .top-bar {
+	position: fixed;
     background-color: #6cde64;
     color: white;
     text-align: center;
     padding: 10px 0;
-	position: fixed;
+
 }
 
 .main-header {
