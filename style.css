@@ -39,6 +39,17 @@ body {
 .logo-search h1 {
     font-size: 24px;
 }
+.search {
+	justify-content: space-between;
+    align-items: middle;
+    width: 80%;
+    margin: 20px 0;
+	font-size: 24px;
+}
+.search-photos {
+	 align-items: right;
+    width: 80%;
+    margin: 20px 0;
 
 .logo-search input {
     padding: 5px;
