@@ -31,7 +31,7 @@ body {
 
 .logo-search {
     justify-content: space-between;
-    align-items: left;
+    align-items: middle;
     width: 80%;
     margin: 20px 0;
 }
