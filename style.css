@@ -30,7 +30,6 @@ body {
 }
 
 .logo-search {
-    display: flex;
     justify-content: space-between;
     align-items: left;
     width: 80%;
