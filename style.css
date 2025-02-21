@@ -99,7 +99,7 @@ body {
 
 .footer-links {
     display: flex;
-    justify-content: space-around;
+    
     margin-bottom: 20px;
 	background-color: #545454;
 	color: white;
